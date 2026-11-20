@@ -1,0 +1,39 @@
+
+.product-list {
+    margin-left: 100px;
+    margin-right: 100px;
+    
+   
+}
+
+.product-list-header {
+    margin-bottom: 25px;
+}
+
+.product-list-header h2 {
+    font-size: 26px;
+    color: #222222;
+    margin-bottom: 5px;
+}
+
+.product-list-header p {
+    color: #666666;
+    margin: 0;
+}
+
+.product-grid {
+    margin-top: 25px;
+    
+}
+
+.status-message {
+    text-align: center;
+    padding: 30px;
+    color: #555555;
+}
+
+.error-message {
+    text-align: center;
+    padding: 20px;
+    color: #dc2626;
+}
